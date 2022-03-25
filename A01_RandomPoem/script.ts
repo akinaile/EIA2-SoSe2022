@@ -18,7 +18,7 @@ namespace randompoem {
 }
 
     //funktion: Arrays sollen verwendet werden, gedicht soll entstehen
-    function getVerse(_subjects: string[], _predicates: string[], _objects: string[], _sentence: string) {
+    function getVerse(_subjects: string[], _predicates: string[], _objects: string[], _sentence: string): string {
        
         let randomsubject: number = Math.floor(Math.random() * subjects.length); //subject erhält eine nummer, die zufällig ist und der länge des subjects entspricht
         _sentence += _subjects.splice(randomsubject, 1) + " "; //der Satz besteht aus einem zufälligen Wort
