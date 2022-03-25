@@ -2,9 +2,9 @@
 var randompoem;
 (function (randompoem) {
     //Arrays: Inhalt der zufälligen Gedichte
-    let subjects = ["Harry", "Hermine", "Ron", "Hagrid", "Snape", "Dumbledore"];
-    let predicates = ["braut", "liebt", "studiert", "hasst", "zaubert", "zerstört"];
-    let objects = ["Zaubertränke", "den Grimm", "Lupin", "Hogwarts", "die Karte des Rumtreibens", "Dementoren"];
+    let subjects = ["Maki", "Mojo", "Marvin", "Aileen", "Wolfgang", "Herbert"];
+    let predicates = ["kuschelt", "liebt", "füttert", "hasst", "frisst", "zerstört"];
+    let objects = ["Katzenfutter", "Leckerli", "den Kratzbaum", "das Sofa", "Marvins Schoß", "das Spielzeug"];
     let sentence = "";
     //nachfrage: obs soweit passt? ja passt
     //console.log(subjects, predicates, objects);

@@ -1,9 +1,9 @@
 namespace randompoem {
 
     //Arrays: Inhalt der zufälligen Gedichte
-    let subjects: string[] = ["Harry", "Hermine", "Ron", "Hagrid", "Snape", "Dumbledore"];
-    let predicates: string[] = ["braut", "liebt", "studiert", "hasst", "zaubert", "zerstört"];
-    let objects: string[] = ["Zaubertränke", "den Grimm", "Lupin", "Hogwarts", "die Karte des Rumtreibens", "Dementoren"];
+    let subjects: string[] = ["Maki", "Mojo", "Marvin", "Aileen", "Wolfgang", "Herbert"];
+    let predicates: string[] = ["kuschelt", "liebt", "füttert", "hasst", "frisst", "zerstört"];
+    let objects: string[] = ["Katzenfutter", "Leckerli", "den Kratzbaum", "das Sofa", "Marvins Schoß", "das Spielzeug"];
     let sentence: string = "";
 
     //nachfrage: obs soweit passt? ja passt
